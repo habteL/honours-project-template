@@ -45,3 +45,12 @@
 
 ## How to run (if applicable)
 <Setup and run instructions for your code.>
+
+## Use of Generative AI
+Required in every deliverable, including this project record. Only permitted uses
+(translating instructions, spelling/grammar, idea generation, small co-pilot help).
+No AI-generated content may be submitted as your own work. Check every AI-suggested source is real.
+
+| Date | Tool | What for | Prompt (summary) | How the output was used |
+|---|---|---|---|---|
+| YYYY-MM-DD | e.g. Grammarly | Grammar check of D1 Introduction | — | Accepted spelling fixes only |
